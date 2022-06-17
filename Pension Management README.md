@@ -1,10 +1,11 @@
                                               **PENSION MANAGEMENT**
 TEAM MEMBERS
 
+PAMIREDDY CHANDRA SEKHAR REDDY.
 KAVYA KATIKALA.
 BHARGAV GUDIPADU.
 SRAVANTHI CHIGURU.
-PAMIREDDY CHANDRA SEKHAR REDDY.
+
 
 ABSTRACT
 Give the discouraging record of the traditional pension system and the limited coverage of the private and public sector pension scheme , there is need for robust web-based pension fund management system that can handle the pension process efficiently . This work focus on the design and implementation of a web-based pension fund management application to replace the manual system thus getting rid of the hurdles involved in the traditional pension management process.
